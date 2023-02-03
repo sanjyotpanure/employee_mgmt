@@ -1,0 +1,14 @@
+
+**Database Name: employeedb**
+
+**Server version: 5.7.31**
+
+**PHP Version: 7.3.21**
+
+**MySQL Version 5.7.31**
+
+
+**Admin Login Details**
+
+username: admin
+Password: password
